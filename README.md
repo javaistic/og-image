@@ -70,3 +70,5 @@ Once you have an image generator that sparks joy, you can setup [automatic GitHu
 ## Authors
 - Steven ([@styfle](https://twitter.com/styfle)) - [Vercel](https://vercel.com)
 - Evil Rabbit ([@evilrabbit](https://twitter.com/evilrabbit_)) - [Vercel](https://vercel.com)
+
+Thanks a lot to them 👍
