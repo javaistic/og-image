@@ -143,11 +143,12 @@ const markdownOptions: DropdownOption[] = [
 
 const imageLightOptions: DropdownOption[] = [
     { text: 'Javaistic', value: 'https://javaistic-assets.vercel.app/logo/javaistic-logo-main.svg' },
+    { text: 'Javaistic Docs', value: 'https://javaistic-assets-javaistic.vercel.app/logo/javaistic-docs-main.svg' }
 ];
 
 const imageDarkOptions: DropdownOption[] = [
-
     { text: 'Javaistic', value: 'https://javaistic-assets.vercel.app/logo/javaistic-logo-alt.svg' },
+    { text: 'Javaistic Docs', value: 'https://javaistic-assets-javaistic.vercel.app/logo/javaistic-docs-alt.svg' }
 ];
 
 const widthOptions = [
