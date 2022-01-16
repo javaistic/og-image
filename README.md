@@ -68,7 +68,10 @@ You'll want to fork this repository and deploy your own image generator.
 Once you have an image generator that sparks joy, you can setup [automatic GitHub](https://vercel.com/github) deployments so that pushing to master will deploy to production! 🚀
 
 ## Authors
-- Steven ([@styfle](https://twitter.com/styfle)) - [Vercel](https://vercel.com)
-- Evil Rabbit ([@evilrabbit](https://twitter.com/evilrabbit_)) - [Vercel](https://vercel.com)
+- [Arghya Ghosh](https://uiuxarghya.vercel.app) ([@uiuxarghya](https://twitter.com/uiuxarghya))
 
-Thanks a lot to them 👍
+## Credits
+
+Thanks a lot Vercel Team for this 👍
+
+This is a fork of [Vercel's og-image generator](https://github.com/vercel/og-image).
