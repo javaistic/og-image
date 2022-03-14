@@ -2,8 +2,8 @@
 
 # [Open Graph Image as a Service](https://javaistic-og-image.vercel.app/)
 
-<a href="https://twitter.com/vercel">
-    <img align="right" src="https://javaistic-og-image.vercel.app/**OG%20Image**.png?theme=light&md=1&fontSize=100px&images=https%3A%2F%2Fjavaistic-assets.vercel.app%2Flogo%2Fjavaistic-logo-main.svg"  width="400" />
+<a href="https://twitter.com/javaistic">
+    <img align="right" src="https://javaistic-og-image.vercel.app/**Open%20Graph%20Image%20as%20a%20Service**.png?theme=light&md=1&fontSize=75px&images=https%3A%2F%2Fjavaistic-assets.vercel.app%2Flogo%2Fjavaistic-logo-main.svg&heights=200"  width="400" />
 </a>
 
 Serverless service that generates dynamic Open Graph images that you can embed in your `<meta>` tags.
@@ -39,7 +39,7 @@ It looks like the following:
 
 The short answer is that it would take a long time to painstakingly design an image for every single blog post and every single documentation page. And we don't want the exact same image for every blog post because that wouldn't make the article stand out when it was shared to Twitter. 
 
-That's where `og-image.vercel.app` comes in. We can simply pass the title of our blog post to our generator service and it will generate the image for us on the fly!
+That's where `javaistic-og-image.vercel.app` comes in. We can simply pass the title of our docs page and blog post to our generator service and it will generate the image for us on the fly!
 
 It looks like the following:
 
